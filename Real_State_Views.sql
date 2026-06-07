@@ -1,7 +1,3 @@
--- ============================================================
---  Real_State_DB  |  Power BI Views
---  Run this script in SSMS against Real_State_DB
--- ============================================================
 
 USE Real_State_DB;
 GO
@@ -304,10 +300,3 @@ SELECT
 FROM Customers;
 GO
 
--- ============================================================
---  DONE — 21 views created successfully
---  Next step: Open Power BI Desktop
---             Home > Get Data > SQL Server
---             Connect to Real_State_DB
---             Select all vw_ views + raw tables
--- ============================================================
